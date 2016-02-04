@@ -44,7 +44,7 @@
     background: $red;
     color: $font-color-3;
     &:hover {
-      background: darken($red, 10);
+      background: lighten($red, 10);
     }
 
   }
