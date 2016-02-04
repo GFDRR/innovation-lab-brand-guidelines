@@ -45,6 +45,27 @@
       }
     }
 
+    ul{
+      padding-left: 30px;
+      li{
+        position: relative;
+        padding: 0 0 0 15px;
+        color: $font-color-1;
+        font-weight: 500;
+        &:before{
+          content: "";
+          position: absolute;
+          top: 12px;
+          left: 0;
+          width: 6px;
+          height: 6px;
+          margin: -4px 0 0;
+          background: $water-blue;
+          border-radius: 50%;
+        }
+      }
+    }
+
     a {
       color: $font-color-2;
     }
