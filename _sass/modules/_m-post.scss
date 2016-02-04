@@ -22,13 +22,23 @@
 
   > .post-wrapper > .post-content {
 
+    h3 {
+      font-size: 15px;
+      font-weight: 700;
+      text-transform: uppercase;
+      > span {
+        text-transform: none;
+      }
+    }
+
     p {
       margin: 10px 0;
-      font-size: 18px;
-      line-height: 30px;
-      letter-spacing: .2px;
+
       &:first-child {
         margin-top: 0;
+        font-size: 18px;
+        line-height: 30px;
+        letter-spacing: .2px;
       }
       &:last-child {
         margin-bottom: 0;

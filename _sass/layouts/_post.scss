@@ -1,83 +1,83 @@
-.post-section{
-  color: $font-color-1;
-  // POST CONTENT
-  .post-content{
-    >*{
-      margin: 10px 0 0;
-      // &:first-child{ margin: 0 0 0;}
-    }
-    h3{
-      margin-top: 30px;
-      font-size: 22px;
-      font-weight: 500;
-      color: #333;
-    }
-    ul{
-      padding-left: 30px;
-      li{
-        position: relative;
-        padding: 0 0 0 15px;
-        color: $font-color-1;
-        font-weight: 500;
-        &:before{
-          content: "";
-          position: absolute;
-          top: 12px;
-          left: 0;
-          width: 6px;
-          height: 6px;
-          margin: -4px 0 0;
-          background: $water-blue;
-          border-radius: 50%;
-        }
-      }
-    }
+// .post-section{
+//   color: $font-color-1;
+//   // POST CONTENT
+//   .post-content{
+//     >*{
+//       // margin: 10px 0 0;
+//       // &:first-child{ margin: 0 0 0;}
+//     }
+//     // h3{
+//     //   margin-top: 30px;
+//     //   font-size: 22px;
+//     //   font-weight: 500;
+//     //   color: #333;
+//     // }
+//     // ul{
+//     //   padding-left: 30px;
+//     //   li{
+//     //     position: relative;
+//     //     padding: 0 0 0 15px;
+//     //     color: $font-color-1;
+//     //     font-weight: 500;
+//     //     &:before{
+//     //       content: "";
+//     //       position: absolute;
+//     //       top: 12px;
+//     //       left: 0;
+//     //       width: 6px;
+//     //       height: 6px;
+//     //       margin: -4px 0 0;
+//     //       background: $water-blue;
+//     //       border-radius: 50%;
+//     //     }
+//     //   }
+//     // }
 
-    .advice {
-      width: 100%;
-      border: 1px solid $water-blue;
-      border-left-width: 5px;
-      background: #FDFFF7;
-      &.development {
-        border-color: #F5A623;
-        background: #FEF4E3;
-        .advice_content {
-          color: #F5A623;
-        }
-      }
+//     .advice {
+//       width: 100%;
+//       border: 1px solid $water-blue;
+//       border-left-width: 5px;
+//       background: #FDFFF7;
+//       &.development {
+//         border-color: #F5A623;
+//         background: #FEF4E3;
+//         .advice_content {
+//           color: #F5A623;
+//         }
+//       }
 
-      .advice_content {
-        display: table-cell;
-        padding: 15px 0 15px 20px;
-        font-size: 15px;
-        color: $water-blue;
-        font-weight: 500;
-      }
-    }
+//       .advice_content {
+//         display: table-cell;
+//         padding: 15px 0 15px 20px;
+//         font-size: 15px;
+//         color: $water-blue;
+//         font-weight: 500;
+//       }
+//     }
 
-    .gallery {
-      display: flex;
-      align-items: stretch;
-      flex-wrap: wrap;
+//     .gallery {
+//       display: flex;
+//       align-items: stretch;
+//       flex-wrap: wrap;
 
-      .image-container {
-        margin: 0 auto 20px;
-        text-align: center;
-        img, a {
-          margin: 20px auto;
-        }
-      }
-    }
+//       .image-container {
+//         margin: 0 auto 20px;
+//         text-align: center;
+//         img, a {
+//           margin: 20px auto;
+//         }
+//       }
+//     }
 
-    .center {
-      text-align: center;
-      img {
-        display: block;
-        margin: 20px auto;
-      }
-    }
-  }
-}
+//     .center {
+//       text-align: center;
+//       img {
+//         display: block;
+//         margin: 20px auto;
+//       }
+//     }
+//   }
+// }
 
 // // SPINNER
 // .spinner-box {

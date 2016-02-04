@@ -1,10 +1,10 @@
 .l-footer {
   margin-top: 10px;
   border-top: 2px rgba($greyish-brown, .1) solid;
-  padding-top: 20px;
 
-  > p {
-    font-size: 13px;
-    margin-bottom: 10px;
+  > a:first-child {
+    display: inline-block;
+    width: 100%;
+    margin: 20px 0;
   }
 }
