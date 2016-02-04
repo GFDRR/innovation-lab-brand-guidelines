@@ -6,14 +6,36 @@
 
   > .post-wrapper {
     margin: 15px 0;
-    padding: 25px 45px 25px 65px;
+    padding: 45px 45px 45px 65px;
     background-color: $color-2;
     box-shadow: 0 1px 7px 0 rgba(0, 0, 0, 0.1);
   }
 
   > .post-wrapper > header {
+    margin-bottom: 20px;
     > h2 {
       font-size: 48px;
+      font-weight: 400;
+    }
+  }
+
+  > .post-wrapper > .post-content {
+
+    p {
+      margin: 10px 0;
+      font-size: 18px;
+      line-height: 30px;
+      letter-spacing: .2px;
+      &:first-child {
+        margin-top: 0;
+      }
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+
+    a {
+      color: $font-color-2;
     }
   }
 }
