@@ -7,7 +7,7 @@ var SnippetModel = Backbone.Model.extend({
 
 var SidebarView = Backbone.View.extend({
 
-  el: '.layout-sidenav',
+  el: '.l-sidenav',
 
   events: {
     'click .item-selected': 'setMenu'
@@ -26,6 +26,8 @@ var SidebarView = Backbone.View.extend({
   setMenu: function(e) {
     e && e.preventDefault();
 
+    console.log(this.currentTarget);
+
     var lists = this.$el.find('.third-level'),
       current = this.$el.find('[data-location="' + this.currentTarget + '"]'),
       currentList = $(current).parents('.third-level').length > 0 ?
@@ -33,27 +35,27 @@ var SidebarView = Backbone.View.extend({
 
     this.selectItem();
 
-    if (this.currentTarget && $(current).hasClass('open')) {
-      this.closeMenu.apply(lists);
-    } else {
-      this.openMenu.apply(currentList);
-    }
+    // if (this.currentTarget && $(current).hasClass('open')) {
+    //   this.closeMenu.apply(lists);
+    // } else {
+    //   this.openMenu.apply(currentList);
+    // }
   },
 
   selectItem: function() {
     this.$el.find('[data-location="' + this.currentTarget + '"]')
       .addClass('item-selected');
-  },
-
-  openMenu: function() {
-    this.prev().addClass('open');
-    this.removeClass('hidden');
-  },
-
-  closeMenu: function() {
-    this.prev().removeClass('open');
-    this.addClass('hidden');
   }
+
+  // openMenu: function() {
+  //   this.prev().addClass('open');
+  //   this.removeClass('hidden');
+  // },
+
+  // closeMenu: function() {
+  //   this.prev().removeClass('open');
+  //   this.addClass('hidden');
+  // }
 
 });
 
