@@ -26,36 +26,34 @@ var SidebarView = Backbone.View.extend({
   setMenu: function(e) {
     e && e.preventDefault();
 
-    console.log(this.currentTarget);
-
     var lists = this.$el.find('.third-level'),
-      current = this.$el.find('[data-location="' + this.currentTarget + '"]'),
+      current = this.$el.find('[data-location="' + this.currentTarget + '"]');
       currentList = $(current).parents('.third-level').length > 0 ?
         $(current).parents('.third-level') : $(current).next();
 
     this.selectItem();
 
-    // if (this.currentTarget && $(current).hasClass('open')) {
-    //   this.closeMenu.apply(lists);
-    // } else {
-    //   this.openMenu.apply(currentList);
-    // }
+    if (this.currentTarget && $(current).hasClass('open')) {
+      this.closeMenu.apply(lists);
+    } else {
+      this.openMenu.apply(currentList);
+    }
   },
 
   selectItem: function() {
     this.$el.find('[data-location="' + this.currentTarget + '"]')
       .addClass('item-selected');
+  },
+
+  openMenu: function() {
+    this.prev().addClass('open');
+    this.removeClass('is-hidden');
+  },
+
+  closeMenu: function() {
+    this.prev().removeClass('open');
+    this.addClass('is-hidden');
   }
-
-  // openMenu: function() {
-  //   this.prev().addClass('open');
-  //   this.removeClass('hidden');
-  // },
-
-  // closeMenu: function() {
-  //   this.prev().removeClass('open');
-  //   this.addClass('hidden');
-  // }
 
 });
 
@@ -101,7 +99,7 @@ var SnippetView = Backbone.View.extend({
 
   toggleSnippet: function(){
     var hidden = this.model.get('hidden');
-    this.$snippet.toggleClass('hidden', hidden);
+    this.$snippet.toggleClass('is-hidden', hidden);
     if (!hidden) {
       this.$showCode.text('Hide code');
     }else{
@@ -119,11 +117,11 @@ var SnippetView = Backbone.View.extend({
     var lang = this.model.get('lang');
     // reset
     this.$langBtn.removeClass('active');
-    this.$langSnippet.addClass('hidden');
+    this.$langSnippet.addClass('is-hidden');
 
     //current
     this.$el.find('.lang[data-lang="'+lang+'"]').addClass('active');
-    this.$el.find('.language-'+lang).removeClass('hidden');
+    this.$el.find('.language-'+lang).removeClass('is-hidden');
   }
 
 });

@@ -1,54 +1,84 @@
 .l-sidenav{
   position: fixed;
-  top: 145px;
-  width: 225px;
-  padding: 0 45px 50px 40px;
+  top: 0;
+  width: 285px;
+  padding: 125px 40px 50px 40px;
+  font-size: 14px;
+  line-height: 15px;
+  letter-spacing: .2px;
 
   > nav  {
-    max-width: 180px;
-
+    padding-bottom: 15px;
     h2 {
-      margin-bottom: 5px;
       color: $font-color-1;
     }
 
     h3 {
       position: relative;
       color: $font-color-1;
+      > a.has-menu {
+        position: relative;
+        padding-right: 20px;
+        &:after {
+          @include arrow('right', 8px, 2px, rgba($greyish-brown, .5), 45deg);
+          top: calc(50% - 4px);
+          right: 10px;
+        }
+
+      }
+      &.open {
+        > a:after {
+            @include arrow('right', 8px, 2px, rgba($greyish-brown, .5), 135deg);
+            top: calc(50% - 4px);
+            right: 10px;
+            transform: rotate(135deg) translate(0, 50%);
+        }
+      }
+      &.item-selected {
+        > a:after {
+          border-color: $color-2;
+        }
+      }
     }
 
     li {
       position: relative;
-      padding: 5px 0;
-    }
+      margin: 5px 0;
 
-    a {
-      display: block;
-      width: 100%;
-      padding-top: 2px;
-      font-size: 14px;
-      color: $font-color-1;
-      &:hover {
-        color: $font-color-2;
+      > * {
+        padding: 4px 0;
+      }
+      a {
+        display: block;
+        width: 100%;
+        color: $font-color-1;
+        &:hover {
+          color: $font-color-2;
+        }
       }
     }
+
 
     .first-level{
-      >li{
-        margin: 10px 0;
-        &:first-child{
-          margin-top: 0;
+      > li {
+        padding: 0;
+        margin: 5px 0;
+        &:first-child {
+          margin: 0 0 5px;
         }
 
-        &:last-child{
-          margin-bottom: 0;
+        &:last-child {
+          margin: 5px 0 0;
         }
       }
     }
-    .second-level {}
+    .second-level {
+      > li {
+        margin: 0;
+      }
+    }
     .third-level{
       position: relative;
-      margin-bottom: 5px;
 
       &:before {
         z-index: -1;
@@ -66,11 +96,17 @@
         cursor: pointer;
         font-size: 0.875em;
         padding-left:20px;
-        margin: 10px 0;
+        margin: 0;
+
+        a.item-selected:hover {
+          color: $font-color-3
+        }
       }
     }
 
     .item-selected {
+      color: $font-color-3;
+
       &:before {
         z-index: -1;
         content: '';
@@ -79,9 +115,13 @@
         left: 0;
         right: 0;
         height: 100%;
-        margin: 0 -45px;
+        margin: 0 -40px;
         background: $color-1;
         box-shadow: 0 1px 7px 0 rgba(0, 0, 0, 0.1);
+      }
+
+      &:hover {
+        color: $font-color-3;
       }
 
       &:first-child  a {

@@ -1,15 +1,17 @@
 .btn {
   -webkit-font-smoothing: antialiased;
-  padding: 5px 20px;
+  display: block;
+  padding: 15px;
   border: 0;
-  border-radius: 40px;
   background: none;
   cursor: pointer;
-  font-family: inherit;
-  font-size: 14px;
-  font-weight: 500;
+  font-family: $font-family-2;
+  font-size: 15px;
+  font-weight: 700;
   text-transform: uppercase;
+  letter-spacing: .3px;
   transition: background 0.15s linear;
+  box-shadow: 0 1px 7px 0 rgba(0, 0, 0, 0.1);
   &:focus {
     outline: 0;
   }
@@ -36,5 +38,14 @@
     &:hover {
       background: #97BD3D;
     }
+  }
+
+  &.-red {
+    background: $red;
+    color: $font-color-3;
+    &:hover {
+      background: darken($red, 10);
+    }
+
   }
 }
