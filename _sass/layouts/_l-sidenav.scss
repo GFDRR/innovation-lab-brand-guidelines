@@ -1,0 +1,92 @@
+.l-sidenav{
+  position: fixed;
+  top: 145px;
+  width: 225px;
+  padding: 0 45px 50px 40px;
+
+  > nav  {
+    max-width: 180px;
+
+    h2 {
+      margin-bottom: 5px;
+      color: $font-color-1;
+    }
+
+    h3 {
+      position: relative;
+      color: $font-color-1;
+    }
+
+    li {
+      position: relative;
+      padding: 5px 0;
+    }
+
+    a {
+      display: block;
+      width: 100%;
+      padding-top: 2px;
+      font-size: 14px;
+      color: $font-color-1;
+      &:hover {
+        color: $font-color-2;
+      }
+    }
+
+    .first-level{
+      >li{
+        margin: 2em 0 0;
+        &:first-child{
+          margin: 0;
+        }
+      }
+    }
+    .second-level {}
+    .third-level{
+      position: relative;
+      margin-bottom: 5px;
+
+      &:before {
+        z-index: -1;
+        content: '';
+        display: inline-block;
+        position: absolute;
+        top: 0;
+        left: 3px;
+        bottom: 0;
+        width: 2px;
+        background: rgba($greyish-brown, .1);
+      }
+
+      >li{
+        cursor: pointer;
+        font-size: 0.875em;
+        padding-left:20px;
+        margin: 10px 0;
+      }
+    }
+
+    .item-selected {
+      &:before {
+        z-index: -1;
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 28px;
+        margin: 0 -45px;
+        background: $color-1;
+        box-shadow: 0 1px 7px 0 rgba(0, 0, 0, 0.1);
+      }
+
+      &:first-child  a {
+        color: $font-color-3;
+        font-weight: 500;
+        &:hover {
+          color: $font-color-3;
+        }
+      }
+    }
+  }
+}
