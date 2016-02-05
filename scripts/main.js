@@ -207,6 +207,24 @@ var ColorGallery = Backbone.View.extend({
 
 });
 
+var DownloadView = Backbone.View.extend({
+
+  el: '.c-curtain',
+
+  events: {
+    'click li' : '_toggle'
+  },
+
+  _toggle: function(e) {
+    var $li = $(e.currentTarget);
+
+    $li.toggleClass('-open');
+
+    // $li.find('.container').toggleClass('is-hidden');
+  }
+
+});
+
 
 (function(){
   // View inits
@@ -219,6 +237,8 @@ var ColorGallery = Backbone.View.extend({
     new ColorGallery({el: '#layer-colors'});
 
   };
+
+  new DownloadView();
 
   // Snippet
   _.each($('.code-snippet-box'), function(v,k){

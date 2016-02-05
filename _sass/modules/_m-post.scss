@@ -31,10 +31,15 @@
       }
     }
 
+    h4 {
+      font-size: 15px;
+      text-transform: uppercase;
+    }
+
     p {
       margin: 10px 0;
 
-      &:first-child {
+      &:first-of-type {
         margin-top: 0;
         font-size: 18px;
         line-height: 30px;
