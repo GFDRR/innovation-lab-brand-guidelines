@@ -2,8 +2,18 @@
   max-width: 100%;
   margin: 15px 0;
   > img {
-    width: 100%;
     height: auto;
+  }
+
+  &.-not-full-center {
+    text-align: center;
+  }
+
+  &.-center {
+    text-align: center;
+    > img {
+      width: 100%;
+    }
   }
 
   &.-full-width {

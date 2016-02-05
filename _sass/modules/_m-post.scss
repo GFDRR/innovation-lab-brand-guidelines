@@ -1,5 +1,5 @@
 .m-post {
-
+  max-width: 810px;
   .inner {
     padding: 0 20px;
   }
@@ -23,7 +23,8 @@
   > .post-wrapper > .post-content {
 
     h3 {
-      font-size: 15px;
+      margin: 20px 0;
+      font-size: $base-font-size;
       font-weight: 700;
       text-transform: uppercase;
       > span {
@@ -31,10 +32,18 @@
       }
     }
 
+    h4 {
+      font-size: $base-font-size;
+      text-transform: uppercase;
+    }
+
     p {
       margin: 10px 0;
+      font-size: $base-font-size;
+      line-height: 23px;
+      letter-spacing: .3px;
 
-      &:first-child {
+      &:first-of-type {
         margin-top: 0;
         font-size: 18px;
         line-height: 30px;

@@ -13,36 +13,36 @@ The standard logo should be the used over white and light backgrounds. There is 
 
 ### Open Data for Resilience Initiative <span>(OpenDRI)</span>
 
-<div class="c-image">
+<div class="c-image -center">
   <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-04-color-versions/1-4-a.png" alt="1-4-a.png">
 </div>
 
 ### Spatial Impact Assessment <span>(SIA)</span>
 
-<div class="c-image">
+<div class="c-image -center">
   <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-04-color-versions/1-4-b.png" alt="1-4-b.png">
 </div>
 
 ### Code for Resilience <span>(CfR)</span>
 
-<div class="c-image">
+<div class="c-image -center">
   <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-04-color-versions/1-4-c.png" alt="1-4-c.png">
 </div>
 
 ### Think Hazard! <span>(TH)</span>
 
-<div class="c-image">
+<div class="c-image -center">
   <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-04-color-versions/1-4-d.png" alt="1-4-d.png">
 </div>
 
 ### Understanding risk <span>(UR)</span>
 
-<div class="c-image">
+<div class="c-image -center">
   <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-04-color-versions/1-4-e.png" alt="1-4-e.png">
 </div>
 
 ### Challenge fund <span>(CH)</span>
 
-<div class="c-image">
+<div class="c-image -center">
   <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-04-color-versions/1-4-f.png" alt="1-4-f.png">
 </div>
