@@ -28,17 +28,7 @@ h2 {
 
 p {
   color: $font-color-1;
-  // &:first-child {
-  //   margin-bottom: 40px !important;
-  //   color: $dark;
-  //   font-size: 18px;
-  //   font-weight: 300;
-  // }
 }
-
-// img {
-//   margin: 20px 0;
-// }
 
 a{
   color: $font-color-1;
@@ -49,10 +39,6 @@ strong {
   color: $dark;
   font-weight: 500;
 }
-
-// .hidden{
-//   display: none;
-// }
 
 .noselect {
   -webkit-touch-callout: none;

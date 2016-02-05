@@ -23,7 +23,8 @@
   > .post-wrapper > .post-content {
 
     h3 {
-      font-size: 15px;
+      margin: 20px 0;
+      font-size: $base-font-size;
       font-weight: 700;
       text-transform: uppercase;
       > span {
@@ -32,12 +33,15 @@
     }
 
     h4 {
-      font-size: 15px;
+      font-size: $base-font-size;
       text-transform: uppercase;
     }
 
     p {
       margin: 10px 0;
+      font-size: $base-font-size;
+      line-height: 23px;
+      letter-spacing: .3px;
 
       &:first-of-type {
         margin-top: 0;

@@ -8,7 +8,7 @@ categories: brand-guidelines
 
 Innovation Lab supports the use of science, technology, open data, and innovation to empower decision-makers to increase their resilience.
 
-<div class="c-image">
+<div class="c-image -center">
   <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-01-about-innovation-lab/1-1-a.png" alt="1-1-a.png">
 </div>
 

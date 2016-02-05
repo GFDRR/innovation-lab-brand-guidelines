@@ -8,13 +8,13 @@ categories: website common-elements
 
 You’ll find links and buttons on almost every page.
 
-<div class="c-image">
+<div class="c-image -not-full-center">
   <img src="/innovation-lab-brand-guidelines/images/02-website/02-02-common-elements/02-02-02-links-and-buttons/2-8-a.png" alt="2-8-a.png">
 </div>
 
 As you can see in the first picture below, the buttons will use the distinctive secondary color (red in the OpenDRI brand). The colour lightens slightly when a user hovers over a button.
 
-<div class="c-image">
+<div class="c-image -not-full-center">
   <img src="/innovation-lab-brand-guidelines/images/02-website/02-02-common-elements/02-02-02-links-and-buttons/2-8-b.png" alt="2-8-b.png">
 </div>
 

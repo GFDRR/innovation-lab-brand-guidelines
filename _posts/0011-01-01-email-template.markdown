@@ -9,6 +9,6 @@ categories: website
 
 Email fields will consist of four main elements: the brand logo, a title, content and the footer.
 
-<div class="c-image">
+<div class="c-image -center">
   <img src="/innovation-lab-brand-guidelines/images/02-website/02-04-email-template/2-10-a.png" alt="2-10-a.png">
 </div>

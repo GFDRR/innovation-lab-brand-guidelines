@@ -1,16 +1,12 @@
 .c-code-snippet {
-  margin-top: 45px;
-  margin-bottom: -45px;
-  margin-left: -65px;
-  margin-right: - 45px;
-  padding-left: 65px;
-  padding-right: 45px;
+  margin: 45px -45px -45px -65px;
+  padding: 0 45px 40px 45px;
   background-color: $gray;
 
   .code-snippet-box{
     @extend %clearfix;
-    padding: 0 0 40px;
     transform: translateY(-20px);
+    box-shadow: 0 1px 7px 0 rgba(0, 0, 0, 0.1);
   }
   .show-code {
     position: relative;

@@ -1,0 +1,13 @@
+.c-list {
+
+  &.-alphabetic {
+    list-style-type: upper-latin;
+    > li {
+      margin: 20px 0;
+      &:before {
+        content: initial !important;
+        color: $font-color-2 !important;
+      }
+    }
+  }
+}
