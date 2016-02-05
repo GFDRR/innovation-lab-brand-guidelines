@@ -22,7 +22,6 @@
   "layouts/l-content",
   "layouts/post",
   "layouts/l-footer",
-  "layouts/code-snippet",
   "layouts/color-gallery";
 
 // Import modules
@@ -33,6 +32,9 @@
 // Import components
 @import
   "components/c-pagination",
-  "components/c-image";
+  "components/c-image",
+  "components/c-curtain",
+  "components/c-thumbnail",
+  "components/c-code-snippet";
 
 
