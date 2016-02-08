@@ -1,14 +1,3 @@
 .c-image {
-  max-width: 100%;
-  margin: 15px 0;
-  > img {
-    width: 100%;
-    height: auto;
-  }
-
-  &.-full-width {
-    max-width: initial;
-    margin-left: -65px;
-    margin-right: -45px;
-  }
+  margin: 15px -45px 15px -65px;
 }

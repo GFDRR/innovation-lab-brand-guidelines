@@ -217,10 +217,7 @@ var DownloadView = Backbone.View.extend({
 
   _toggle: function(e) {
     var $li = $(e.currentTarget);
-
     $li.toggleClass('-open');
-
-    // $li.find('.container').toggleClass('is-hidden');
   }
 
 });

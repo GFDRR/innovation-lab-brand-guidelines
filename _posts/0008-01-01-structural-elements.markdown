@@ -19,7 +19,7 @@ The homepage consists of the navigation and filters bar, at the top of the page,
 ### Project Pages
 Each project page shares similar structure. Again there is a navigation and filters bar at the top of the page, followed by a map section (showing where the project is taking place), a content section and the footer at the bottom.
 
-<div class="c-image">
+<div class="c-image -not-full-center">
   <img src="/innovation-lab-brand-guidelines/images/02-website/02-01-structural-elements/2-1-b.png" alt="2-1-b.png">
 </div>
 

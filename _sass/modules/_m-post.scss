@@ -1,11 +1,11 @@
 .m-post {
-
+  max-width: 810px;
   .inner {
     padding: 0 20px;
   }
 
   > .post-wrapper {
-    margin: 15px 0;
+    margin: 12px 0;
     padding: 45px 45px 45px 65px;
     background-color: $color-2;
     box-shadow: 0 1px 7px 0 rgba(0, 0, 0, 0.1);
@@ -23,7 +23,8 @@
   > .post-wrapper > .post-content {
 
     h3 {
-      font-size: 15px;
+      margin: 20px 0;
+      font-size: $base-font-size;
       font-weight: 700;
       text-transform: uppercase;
       > span {
@@ -32,12 +33,15 @@
     }
 
     h4 {
-      font-size: 15px;
+      font-size: $base-font-size;
       text-transform: uppercase;
     }
 
     p {
       margin: 10px 0;
+      font-size: $base-font-size;
+      line-height: 23px;
+      letter-spacing: .3px;
 
       &:first-of-type {
         margin-top: 0;
