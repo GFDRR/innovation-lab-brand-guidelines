@@ -16,4 +16,4 @@ To meet the needs of a rapidly changing world, Innovation Lab supports the use o
 
 Innovation Lab activities are designed and implemented in partnership with government institutions and key international and local partners, ensuring that all activities add value in planning, operational, and recovery activities.
 
-<a href="/">Innovation Lab Factsheet</a>
+<a target="_blank" href="https://www.gfdrr.org/sites/default/files/INNOVATION_LAB_FOLDER_WEB.pdf">Innovation Lab Factsheet</a>
