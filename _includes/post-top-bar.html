@@ -14,15 +14,20 @@
           {% endif %}
         {% endfor %}
       </h3>
-      <div class="c-pagination">
-        {% if page.previous %}
-          <a class="prev" href="{{ site.baseurl }}{{page.previous.url}}">Previous</a>
-        {% else %}
-          <a class="prev" href="{{ site.baseurl }}/">Previous</a>
-        {% endif %}
-        {% if page.next %}
-          <a class="next" href="{{ site.baseurl }}{{page.next.url}}">Next</a>
-        {% endif %}
+
+      {% if page.next %}
+        <div class="c-pagination">
+      {% else %}
+        <div class="c-pagination -single-item">
+      {% endif %}
+      {% if page.previous %}
+        <a class="prev" href="{{ site.baseurl }}{{page.previous.url}}">Previous</a>
+      {% else %}
+        <a class="prev" href="{{ site.baseurl }}/">Previous</a>
+      {% endif %}
+      {% if page.next %}
+        <a class="next" href="{{ site.baseurl }}{{page.next.url}}">Next</a>
+      {% endif %}
       </div>
     </div>
   </div>

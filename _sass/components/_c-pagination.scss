@@ -1,9 +1,10 @@
 .c-pagination {
   display: flex;
-  width: 185px;
-  justify-content: space-between;
+  width: 100%;
+  padding-right: 10px;
+  justify-content: flex-end;
   align-items: center;
-  > .prev, .next {
+  > .prev, .next, .back-home {
     position: relative;
     font-weight: 700;
     text-transform: uppercase;
@@ -15,7 +16,7 @@
     &:before {
       @include arrow('left', 9px, 2px, $water-blue, -45deg);
       top: 50%;
-      transform: rotate(-45deg) translate(0, -50%);
+      transform: rotate(-45deg) translate(0, calc(-50% - 2px));
     }
   }
   > .next {
@@ -23,12 +24,13 @@
     &:after {
       @include arrow('right', 9px, 2px, $water-blue, 45deg);
       top: 50%;
-      transform: rotate(45deg) translate(0, -50%);
+      transform: rotate(45deg) translate(0, calc(-50% - 2px));
     }
   }
 
-  .-single-item & {
-    width: auto;
-    justify-content: flex-end;
+  &.-single-item {
+    a {
+      margin: 0;
+    }
   }
 }

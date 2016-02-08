@@ -1,6 +1,4 @@
 .l-sidenav{
-  position: fixed;
-  top: 0;
   width: 285px;
   padding: 125px 40px 50px 40px;
   font-size: 14px;
@@ -42,6 +40,7 @@
     }
 
     li {
+      z-index: 1;
       position: relative;
       margin: 5px 0;
 
