@@ -17,6 +17,7 @@
       font-size: 48px;
       font-weight: 400;
       text-transform: none;
+      color: $font-color-1;
     }
   }
 
@@ -27,6 +28,7 @@
       font-size: $base-font-size;
       font-weight: 700;
       text-transform: uppercase;
+      color: $font-color-1;
       > span {
         text-transform: none;
       }
@@ -34,6 +36,7 @@
 
     h4 {
       font-size: $base-font-size;
+      color: $font-color-1;
       text-transform: uppercase;
     }
 
