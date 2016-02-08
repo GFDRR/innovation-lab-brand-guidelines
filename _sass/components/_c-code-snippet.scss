@@ -4,7 +4,9 @@
   background-color: $gray;
 
   .code-snippet-box{
+    overflow: auto;
     @extend %clearfix;
+    width: 100%;
     transform: translateY(-20px);
     box-shadow: 0 1px 7px 0 rgba(0, 0, 0, 0.1);
   }
@@ -23,8 +25,6 @@
   }
 
   .code-snippet {
-    overflow: hidden;
-    width: 100%;
     color: $white;
     border-radius: 7px;
     background: $color-2;
@@ -67,16 +67,21 @@
         color: $greyish-brown;
       }
     }
+
+    .lang-snippet {
+      overflow: auto;
+      max-height: 250px;
+    }
+
     .highlight {
       font-family: 'Inconsolata';
       -webkit-font-smoothing: subpixel-antialiased;
       padding: 15px;
       line-height: 1.2em;
       background: $color-2;
-      max-height: 400px;
-      overflow: scroll;
       > pre {
         color: $font-color-1;
+        white-space: pre-wrap;
       }
     }
   }
