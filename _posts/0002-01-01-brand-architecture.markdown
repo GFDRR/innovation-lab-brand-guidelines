@@ -8,7 +8,7 @@ categories: brand-guidelines
 
 A partnership of brands exists under the umbrella of the main InnovationLab brand.
 
-<div class="c-image">
+<div class="c-image -delimiter">
   <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-02-brand-architecture/1-2-a.png" alt="1-2-a.png">
 </div>
 
