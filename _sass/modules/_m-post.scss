@@ -5,7 +5,7 @@
   }
 
   > .post-wrapper {
-    margin: 12px 0;
+    margin: 15px 0 30px 0;
     padding: 45px 45px 45px 65px;
     background-color: $color-2;
     box-shadow: 0 1px 7px 0 rgba(0, 0, 0, 0.1);
@@ -47,6 +47,7 @@
       letter-spacing: .3px;
 
       &:first-of-type {
+        margin-top: 0;
         font-size: 18px;
         line-height: 30px;
         letter-spacing: .2px;
