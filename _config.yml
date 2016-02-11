@@ -24,12 +24,13 @@ gems:
   - 'jekyll-paginate'
 
 prose:
-  rooturl: '_posts'
+  rooturl: ''
   siteurl: 'http://vizzuality.github.io/innovation-lab-brand-guidelines '
   # relativeLinks: ''
   media: 'images'
   ignore:
     - index.md
+    - about.md
     - _config.yml
     - /_layouts
     - /_includes
