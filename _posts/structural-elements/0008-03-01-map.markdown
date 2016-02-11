@@ -12,7 +12,7 @@ Each map section consists of two key elements: a basemap created using Mapbox an
   <img src="/innovation-lab-brand-guidelines/images/02-website/02-01-structural-elements/02-01-03-map/2-4-a.png" alt="2-4-a.png">
 </div>
 
-The top image shows datapoints clustered by region, while the image below shows a map where each individual point is visualised. A tooltip, based on the ‘card’ element, <a target="_blank" href="http://vizzuality.github.io/innovation-lab-brand-guidelines/website/common-elements/cards.html">described in this guide</a>, is shown in this second image.
+The top image shows datapoints clustered by region, while the image below shows a map where each individual point is visualised. A tooltip, based on the ‘card’ element, <a href="http://vizzuality.github.io/innovation-lab-brand-guidelines/website/common-elements/cards.html">described in this guide</a>, is shown in this second image.
 
 <div class="c-image -no-margin-bottom">
   <img src="/innovation-lab-brand-guidelines/images/02-website/02-01-structural-elements/02-01-03-map/2-4-b.png" alt="2-4-b.png">
