@@ -213,7 +213,8 @@ var DownloadView = Backbone.View.extend({
 
   events: {
     'click li' : '_toggle',
-    'click a'  : '_stopEvent'
+    'click a'  : '_stopEvent',
+    'click .container': '_stopEvent'
   },
 
   _toggle: function(e) {

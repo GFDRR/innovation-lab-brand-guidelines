@@ -43,6 +43,12 @@
       &:first-of-type {
         margin-bottom: 45px;
       }
+
+      p {
+        font-size: 15px !important;
+        letter-spacing: .3px;
+        margin: 0;
+      }
     }
   }
 }
