@@ -212,12 +212,17 @@ var DownloadView = Backbone.View.extend({
   el: '.c-curtain',
 
   events: {
-    'click li' : '_toggle'
+    'click li' : '_toggle',
+    'click a'  : '_stopEvent'
   },
 
   _toggle: function(e) {
     var $li = $(e.currentTarget);
     $li.toggleClass('-open');
+  },
+
+  _stopEvent: function(e) {
+    e.stopPropagation();
   }
 
 });
