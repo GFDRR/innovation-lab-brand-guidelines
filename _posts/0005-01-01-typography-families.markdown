@@ -8,6 +8,8 @@ categories: brand-guidelines
 
 InnovationLab uses Variable Bold on its logotypes and its symbols are built based on it. These specifications are shared among the brother brands.
 
+Here you can <a href="http://bariol.com/" target="_blank">download the Bariol font</a>.
+
 <div class="c-image">
   <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-05-typography-families/1-5-a.png" alt="1-5-a.png">
 </div>
