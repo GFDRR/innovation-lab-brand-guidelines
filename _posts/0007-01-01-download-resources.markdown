@@ -19,32 +19,46 @@ Here you can download some useful assets in different formats.
             <div class="thumbnail-image -white">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-a1.png" alt="1-7-a1.png">
             </div>
-            <p>Standard color</p>
             <div class="formats">
+              <p>Standard color</p>
               <a download="ODRI-full-color.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/ODRI-full-color.png">PNG</a>
               <a download="ODRI-full-color.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/ODRI-full-color.eps">EPS</a>
               <a download="ODRI-full-color.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/ODRI-full-color.pdf">PDF</a>
               <a download="ODRI-full-color.svg" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/ODRI-full-color.svg">SVG</a>
+            </div>
+            <div class="formats">
+              <p>With background</p>
+              <a download="ODRI-full-color.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/ODRI-full-color+bg.png">PNG</a>
+              <a download="ODRI-full-color.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/ODRI-full-color+bg.eps">EPS</a>
+              <a download="ODRI-full-color+bg.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/ODRI-full-color+bg.pdf">PDF</a>
+              <a download="ODRI-full-color+bg.svg" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/ODRI-full-color+bg.svg">SVG</a>
             </div>
           </div>
           <div class="c-thumbnail">
             <div class="thumbnail-image -black">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-a2.png" alt="1-7-a2.png">
             </div>
-            <p>Color negative</p>
             <div class="formats">
+              <p>Color negative</p>
               <a download="ODRI-full-neg.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/ODRI-full-neg.png">PNG</a>
               <a download="ODRI-full-neg.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/ODRI-full-neg.eps">EPS</a>
               <a download="ODRI-full-neg.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/ODRI-full-neg.pdf">PDF</a>
               <a download="ODRI-full-neg.svg" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/ODRI-full-neg.svg">SVG</a>
+            </div>
+            <div class="formats">
+              <p>With background</p>
+              <a download="ODRI-full-color.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/ODRI-full-neg+bg.png">PNG</a>
+              <a download="ODRI-full-neg+bg.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/ODRI-full-neg+bg.eps">EPS</a>
+              <a download="ODRI-full-neg+bg.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/ODRI-full-neg+bg.pdf">PDF</a>
+              <a download="ODRI-full-neg+bg.svg" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/ODRI-full-neg+bg.svg">SVG</a>
             </div>
           </div>
           <div class="c-thumbnail">
             <div class="thumbnail-image -blue">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-a3.png" alt="1-7-a3.png">
             </div>
-              <p>White</p>
               <div class="formats">
+                <p>White</p>
                 <a download="ODRI-full-white.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/ODRI-full-white.png">PNG</a>
                 <a download="ODRI-full-white.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/ODRI-full-white.eps">EPS</a>
                 <a download="ODRI-full-white.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/ODRI-full-white.pdf">PDF</a>
@@ -58,8 +72,8 @@ Here you can download some useful assets in different formats.
             <div class="thumbnail-image -white">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-a4.png" alt="1-7-a4.png">
             </div>
-            <p>Standard color</p>
             <div class="formats">
+              <p>Standard color</p>
               <a download="ODRI-symbol-color.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/ODRI-symbol-color.png">PNG</a>
               <a download="ODRI-symbol-color.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/ODRI-symbol-color.eps">EPS</a>
               <a download="ODRI-symbol-color.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/ODRI-symbol-color.pdf">PDF</a>
@@ -70,8 +84,8 @@ Here you can download some useful assets in different formats.
             <div class="thumbnail-image -white">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-a5.png" alt="1-7-a5.png">
             </div>
-            <p>Black</p>
             <div class="formats">
+              <p>Black</p>
               <a download="ODRI-symbol-black.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/ODRI-symbol-black.png">PNG</a>
               <a download="ODRI-symbol-black.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/ODRI-symbol-black.eps">EPS</a>
               <a download="ODRI-symbol-black.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/ODRI-symbol-black.pdf">PDF</a>
@@ -82,8 +96,8 @@ Here you can download some useful assets in different formats.
             <div class="thumbnail-image -black">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-a6.png" alt="1-7-a6.png">
             </div>
-              <p>White</p>
               <div class="formats">
+                <p>White</p>
                 <a download="ODRI-symbol-white.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/ODRI-symbol-white.png">PNG</a>
                 <a download="ODRI-symbol-white.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/ODRI-symbol-white.eps">EPS</a>
                 <a download="ODRI-symbol-white.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/ODRI-symbol-white.pdf">PDF</a>
@@ -103,8 +117,8 @@ Here you can download some useful assets in different formats.
             <div class="thumbnail-image -white">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-b1.png" alt="1-7-b1.png">
             </div>
-            <p>Standard color</p>
             <div class="formats">
+              <p>Standard color</p>
               <a download="SIA-full-color.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/SIA-full-color.png">PNG</a>
               <a download="SIA-full-color.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/SIA-full-color.eps">EPS</a>
               <a download="SIA-full-color.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/SIA-full-color.pdf">PDF</a>
@@ -115,8 +129,8 @@ Here you can download some useful assets in different formats.
             <div class="thumbnail-image -black">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-b2.png" alt="1-7-b2.png">
             </div>
-            <p>Color negative</p>
             <div class="formats">
+              <p>Color negative</p>
               <a download="SIA-full-neg.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/SIA-full-neg.png">PNG</a>
               <a download="SIA-full-neg.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/SIA-full-neg.eps">EPS</a>
               <a download="SIA-full-neg.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/SIA-full-neg.pdf">PDF</a>
@@ -127,8 +141,8 @@ Here you can download some useful assets in different formats.
             <div class="thumbnail-image -turquoise">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-b3.png" alt="1-7-b3.png">
             </div>
-            <p>White</p>
             <div class="formats">
+              <p>White</p>
               <a download="SIA-full-white.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/SIA-full-white.png">PNG</a>
               <a download="SIA-full-white.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/SIA-full-white.eps">EPS</a>
               <a download="SIA-full-white.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/SIA-full-white.pdf">PDF</a>
@@ -142,8 +156,8 @@ Here you can download some useful assets in different formats.
             <div class="thumbnail-image -white">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-b4.png" alt="1-7-b4.png">
             </div>
-            <p>Standard color</p>
             <div class="formats">
+              <p>Standard color</p>
               <a download="SIA-symbol-color.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/SIA-symbol-color.png">PNG</a>
               <a download="SIA-symbol-color.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/SIA-symbol-color.eps">EPS</a>
               <a download="SIA-symbol-color.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/SIA-symbol-color.pdf">PDF</a>
@@ -154,8 +168,8 @@ Here you can download some useful assets in different formats.
             <div class="thumbnail-image -white">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-b5.png" alt="1-7-b5.png">
             </div>
-            <p>Black</p>
             <div class="formats">
+              <p>Black</p>
               <a download="SIA-symbol-black.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/SIA-symbol-black.png">PNG</a>
               <a download="SIA-symbol-black.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/SIA-symbol-black.eps">EPS</a>
               <a download="SIA-symbol-black.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/SIA-symbol-black.pdf">PDF</a>
@@ -166,8 +180,8 @@ Here you can download some useful assets in different formats.
             <div class="thumbnail-image -black">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-b6.png" alt="1-7-b6.png">
             </div>
-            <p>White</p>
             <div class="formats">
+              <p>White</p>
               <a download="SIA-symbol-white.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/SIA-symbol-white.png">PNG</a>
               <a download="SIA-symbol-white.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/SIA-symbol-white.eps">EPS</a>
               <a download="SIA-symbol-white.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/SIA-symbol-white.pdf">PDF</a>
@@ -186,8 +200,8 @@ Here you can download some useful assets in different formats.
             <div class="thumbnail-image -white">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-c1.png" alt="1-7-c1.png">
             </div>
-            <p>Standard color</p>
             <div class="formats">
+              <p>Standard color</p>
               <a download="CfR-full-color.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CfR-full-color.png">PNG</a>
               <a download="CfR-full-color.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CfR-full-color.eps">EPS</a>
               <a download="CfR-full-color.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CfR-full-color.pdf">PDF</a>
@@ -198,8 +212,8 @@ Here you can download some useful assets in different formats.
             <div class="thumbnail-image -black">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-c2.png" alt="1-7-c2.png">
             </div>
-            <p>Color negative</p>
             <div class="formats">
+              <p>Color negative</p>
               <a download="CfR-full-neg.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CfR-full-neg.png">PNG</a>
               <a download="CfR-full-neg.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CfR-full-neg.eps">EPS</a>
               <a download="CfR-full-neg.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CfR-full-neg.pdf">PDF</a>
@@ -210,8 +224,8 @@ Here you can download some useful assets in different formats.
             <div class="thumbnail-image -green">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-c3.png" alt="1-7-c3.png">
             </div>
-              <p>White</p>
               <div class="formats">
+                <p>White</p>
                 <a download="CfR-white-color.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CfR-white-color.png">PNG</a>
                 <a download="CfR-white-color.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CfR-white-color.eps">EPS</a>
                 <a download="CfR-white-color.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CfR-white-color.pdf">PDF</a>
@@ -225,8 +239,8 @@ Here you can download some useful assets in different formats.
             <div class="thumbnail-image -white">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-c4.png" alt="1-7-c4.png">
             </div>
-            <p>Standard color</p>
             <div class="formats">
+              <p>Standard color</p>
               <a download="CfR-symbol-color.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CfR-symbol-color.png">PNG</a>
               <a download="CfR-symbol-color.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CfR-symbol-color.eps">EPS</a>
               <a download="CfR-symbol-color.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CfR-symbol-color.pdf">PDF</a>
@@ -237,8 +251,8 @@ Here you can download some useful assets in different formats.
             <div class="thumbnail-image -white">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-c5.png" alt="1-7-c5.png">
             </div>
-            <p>Black</p>
             <div class="formats">
+              <p>Black</p>
               <a download="CfR-symbol-black.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CfR-symbol-black.png">PNG</a>
               <a download="CfR-symbol-black.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CfR-symbol-black.eps">EPS</a>
               <a download="CfR-symbol-black.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CfR-symbol-black.pdf">PDF</a>
@@ -249,8 +263,8 @@ Here you can download some useful assets in different formats.
             <div class="thumbnail-image -black">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-c6.png" alt="1-7-c6.png">
             </div>
-              <p>White</p>
               <div class="formats">
+                <p>White</p>
                 <a download="CfR-symbol-white.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CfR-symbol-white.png">PNG</a>
                 <a download="CfR-symbol-white.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CfR-symbol-white.eps">EPS</a>
                 <a download="CfR-symbol-white.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CfR-symbol-white.pdf">PDF</a>
@@ -351,8 +365,8 @@ Here you can download some useful assets in different formats.
             <div class="thumbnail-image -white">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-e1.png" alt="1-7-e1.png">
             </div>
-            <p>Standard color</p>
             <div class="formats">
+              <p>Standard color</p>
               <a download="UR-full-color.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/UR-full-color.png">PNG</a>
               <a download="UR-full-color.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/UR-full-color.eps">EPS</a>
               <a download="UR-full-color.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/UR-full-color.pdf">PDF</a>
@@ -363,8 +377,8 @@ Here you can download some useful assets in different formats.
             <div class="thumbnail-image -black">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-e2.png" alt="1-7-e2.png">
             </div>
-            <p>Color negative</p>
             <div class="formats">
+              <p>Color negative</p>
               <a download="UR-full-neg.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/UR-full-neg.png">PNG</a>
               <a download="UR-full-neg.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/UR-full-neg.eps">EPS</a>
               <a download="UR-full-neg.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/UR-full-neg.pdf">PDF</a>
@@ -375,8 +389,8 @@ Here you can download some useful assets in different formats.
             <div class="thumbnail-image -red">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-e3.png" alt="1-7-e3.png">
             </div>
-            <p>White</p>
             <div class="formats">
+              <p>White</p>
               <a download="UR-full-white.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/UR-full-white.png">PNG</a>
               <a download="UR-full-white.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/UR-full-white.eps">EPS</a>
               <a download="UR-full-white.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/UR-full-white.pdf">PDF</a>
@@ -390,8 +404,8 @@ Here you can download some useful assets in different formats.
             <div class="thumbnail-image -white">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-e4.png" alt="1-7-e4.png">
             </div>
-            <p>Standard color</p>
             <div class="formats">
+              <p>Standard color</p>
               <a download="UR-symbol-color.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/UR-symbol-color.png">PNG</a>
               <a download="UR-symbol-color.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/UR-symbol-color.eps">EPS</a>
               <a download="UR-symbol-color.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/UR-symbol-color.pdf">PDF</a>
@@ -402,8 +416,8 @@ Here you can download some useful assets in different formats.
             <div class="thumbnail-image -white">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-e5.png" alt="1-7-e5.png">
             </div>
-            <p>Black</p>
             <div class="formats">
+              <p>Black</p>
               <a download="UR-symbol-black.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/UR-symbol-black.png">PNG</a>
               <a download="UR-symbol-black.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/UR-symbol-black.eps">EPS</a>
               <a download="UR-symbol-black.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/UR-symbol-black.pdf">PDF</a>
@@ -414,8 +428,8 @@ Here you can download some useful assets in different formats.
             <div class="thumbnail-image -black">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-e6.png" alt="1-7-e6.png">
             </div>
-            <p>White</p>
             <div class="formats">
+              <p>White</p>
               <a download="UR-symbol-white.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/UR-symbol-white.png">PNG</a>
               <a download="UR-symbol-white.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/UR-symbol-white.eps">EPS</a>
               <a download="UR-symbol-white.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/UR-symbol-white.pdf">PDF</a>
@@ -434,8 +448,8 @@ Here you can download some useful assets in different formats.
             <div class="thumbnail-image -white">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-f1.png" alt="1-7-f1.png">
             </div>
-            <p>Standard color</p>
             <div class="formats">
+              <p>Standard color</p>
               <a download="CF-full-color.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CF-full-color.png">PNG</a>
               <a download="CF-full-color.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CF-full-color.eps">EPS</a>
               <a download="CF-full-color.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CF-full-color.pdf">PDF</a>
@@ -446,8 +460,8 @@ Here you can download some useful assets in different formats.
             <div class="thumbnail-image -black">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-f2.png" alt="1-7-f2.png">
             </div>
-            <p>Color negative</p>
             <div class="formats">
+              <p>Color negative</p>
               <a download="CF-full-neg.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CF-full-neg.png">PNG</a>
               <a download="CF-full-neg.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CF-full-neg.eps">EPS</a>
               <a download="CF-full-neg.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CF-full-neg.pdf">PDF</a>
@@ -458,8 +472,8 @@ Here you can download some useful assets in different formats.
             <div class="thumbnail-image -purple">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-f3.png" alt="1-7-f3.png">
             </div>
-            <p>White</p>
             <div class="formats">
+              <p>White</p>
               <a download="CF-full-white.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CF-full-white.png">PNG</a>
               <a download="CF-full-white.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CF-full-white.eps">EPS</a>
               <a download="CF-full-white.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CF-full-white.pdf">PDF</a>
@@ -473,8 +487,8 @@ Here you can download some useful assets in different formats.
             <div class="thumbnail-image -white">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-f4.png" alt="1-7-f4.png">
             </div>
-            <p>Standard color</p>
             <div class="formats">
+              <p>Standard color</p>
               <a download="CF-symbol-color.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CF-symbol-color.png">PNG</a>
               <a download="CF-symbol-color.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CF-symbol-color.eps">EPS</a>
               <a download="CF-symbol-color.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CF-symbol-color.pdf">PDF</a>
@@ -485,8 +499,8 @@ Here you can download some useful assets in different formats.
             <div class="thumbnail-image -white">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-f5.png" alt="1-7-f5.png">
             </div>
-            <p>Black</p>
             <div class="formats">
+              <p>Black</p>
               <a download="CF-symbol-black.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CF-symbol-black.png">PNG</a>
               <a download="CF-symbol-black.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CF-symbol-black.eps">EPS</a>
               <a download="CF-symbol-black.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CF-symbol-black.pdf">PDF</a>
@@ -497,8 +511,8 @@ Here you can download some useful assets in different formats.
             <div class="thumbnail-image -black">
               <img src="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/1-7-f6.png" alt="1-7-f6.png">
             </div>
-            <p>White</p>
             <div class="formats">
+              <p>White</p>
               <a download="CF-symbol-white.png" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CF-symbol-white.png">PNG</a>
               <a download="CF-symbol-white.eps" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CF-symbol-white.eps">EPS</a>
               <a download="CF-symbol-white.pdf" href="/innovation-lab-brand-guidelines/images/01-brand-guidelines/01-07-download-resources/logos/CF-symbol-white.pdf">PDF</a>

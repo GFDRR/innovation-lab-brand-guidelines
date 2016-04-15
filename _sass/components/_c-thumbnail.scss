@@ -1,10 +1,10 @@
 .c-thumbnail {
-  min-width: 210px;
+  width: 210px;
 
   > .thumbnail-image {
     position: relative;
     height: auto;
-    padding: 45px 15px;
+    padding: 45px 0;
     text-align: center;
     background-repeat: repeat-y;
 
@@ -44,5 +44,12 @@
   .formats {
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
+    p {
+      width: 100%;
+    }
+    & ~ .formats {
+      margin-top: 15px;
+    }
   }
 }
